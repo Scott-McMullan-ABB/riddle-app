@@ -1,0 +1,8 @@
+{
+  "name": "Scott's App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "9420d7d1"
+}
